@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.telegram:telegrambots:Latest">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/Latest/telegrambots-Latest.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/Latest/telegrambots-Latest-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/Latest/telegrambots-Latest-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

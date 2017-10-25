@@ -20,6 +20,11 @@
             <artifactId>telegrambots</artifactId>
             <version>Latest</version>
         </dependency>
+        <dependency>
+            <groupId>com.vk.api</groupId>
+            <artifactId>sdk</artifactId>
+            <version>LATEST</version>
+        </dependency>
     </dependencies>
 
     <reporting>

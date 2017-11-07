@@ -1,4 +1,4 @@
-package vaporbot;
+package com.vaporbot;
 
 import org.telegram.telegrambots.ApiContextInitializer;
 import org.telegram.telegrambots.TelegramBotsApi;

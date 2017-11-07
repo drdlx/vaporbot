@@ -1,7 +1,9 @@
-package vaporbot; /**
+package com.vaporbot;
+/**
  * Created by drdlx on 16.10.2017.
  * Main bot class
  */
+
 import org.telegram.telegrambots.api.methods.send.SendMessage;
 import org.telegram.telegrambots.api.objects.Update;
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;
